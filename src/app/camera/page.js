@@ -55,8 +55,8 @@ export default function TravelVoiceMemo() {
                 </div>
 
                 <p className="text-white/80 italic mb-8 text-center bg-black/20 p-4 rounded-xl border border-white/10">
-                    🎙️ "Capture the soul of your journey - bustling markets,
-                    ocean whispers, mountain echoes..."
+                    🎙️ &rdquo;Capture the soul of your journey - bustling markets,
+                    ocean whispers, mountain echoes...&rdquo;
                 </p>
 
                 <div className="flex justify-center">
