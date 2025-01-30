@@ -47,7 +47,7 @@ export default function TravelVoiceMemo() {
             <div className="bg-white shadow-lg p-6 rounded-xl text-gray-900 max-w-md w-full">
                 <h2 className="text-2xl font-bold text-center mb-4">📍 Travel Voice Memo</h2>
                 <p className="text-sm text-center text-gray-600 mb-4 italic">
-                    "Capture the sounds of your journey – a bustling market, crashing waves, or your thoughts on a mountain peak."
+                    &quot;Capture the sounds of your journey – a bustling market, crashing waves, or your thoughts on a mountain peak.&quot;
                 </p>
 
                 <div className="flex justify-center">
