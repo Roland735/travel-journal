@@ -74,7 +74,7 @@ export default function TravelVoiceMemo() {
                             className="flex items-center gap-3 bg-gradient-to-r from-purple-500 to-indigo-500 hover:from-purple-600 hover:to-indigo-600 px-8 py-4 rounded-full shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-2xl animate-pulse"
                         >
                             <FaStop className="text-xl" />
-                            <span className="font-semibold">Stop Recording</span>
+                            <span className="font-semibold">Stop recording</span>
                         </button>
                     )}
                 </div>
@@ -86,7 +86,7 @@ export default function TravelVoiceMemo() {
                                 <div className="p-2 bg-emerald-500/20 rounded-lg">
                                     <FaPlay className="text-emerald-400" />
                                 </div>
-                                <h3 className="text-xl font-semibold text-white">Your Travel Memory</h3>
+                                <h3 className="text-xl font-semibold text-white">Your Travel Memory </h3>
                             </div>
 
                             <audio
